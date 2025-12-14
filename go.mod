@@ -1,6 +1,6 @@
 module github.com/calebdoxsey/kubernetes-cloudflare-sync
 
-go 1.23.0
+go 1.25
 
 require (
 	github.com/cloudflare/cloudflare-go v0.30.0
